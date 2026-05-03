@@ -57,6 +57,6 @@
 ---
 
 ### 📬 How to reach me
-- **LinkedIn:** [Nigel Yan]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nachuan-yan-8b1324372/))
+- **LinkedIn:** [Nigel Yan][https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nachuan-yan-8b1324372/)
 - **Email:** swe2409061@xmu.edu.my
 - **GitHub:** @Nigel886
