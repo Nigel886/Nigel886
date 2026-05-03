@@ -56,13 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nigel886&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigel886&layout=compact&theme=tokyonight)
-
----
-
 ### 📬 How to reach me
-- **LinkedIn:** [Nigel Yan](https://www.linkedin.com/in/yourprofile) (记得替换成你的真实链接)
+- **LinkedIn:** [Nigel Yan]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nachuan-yan-8b1324372/))
 - **Email:** swe2409061@xmu.edu.my
 - **GitHub:** @Nigel886
