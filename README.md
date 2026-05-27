@@ -20,7 +20,7 @@
 
 ### 🔬 Research & Featured Projects
 
-#### 📝 [Survey] Vision-Language Models for Automated Reward Annotation in Embodied AI
+#### 📝 [Survey] Vision-Language Models for Automated Reward Annotation in Embodied AI: State-of-the-Art, Challenges, and Future Directions
 > **第一作者/通讯作者** | 深度拆解 VIP, LIV, Eureka, DrEureka, EMMA-X 等 5 大前沿框架。
 - **核心贡献：** 建立了自动化奖励标注的评价指标分类体系 (Taxonomy)，深入探讨了 **Reward Hacking** 与 **Visual Grounding** 等 Agent 落地痛点。
 - **目标：** 为构建具备人类水平逻辑的自进化 AI Agent 提供技术图谱。
